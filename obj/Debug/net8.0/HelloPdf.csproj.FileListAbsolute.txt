@@ -40,3 +40,7 @@ C:\Users\lisac\Documents\HelloPdf\obj\Debug\net8.0\refint\HelloPdf.dll
 C:\Users\lisac\Documents\HelloPdf\obj\Debug\net8.0\HelloPdf.pdb
 C:\Users\lisac\Documents\HelloPdf\obj\Debug\net8.0\HelloPdf.genruntimeconfig.cache
 C:\Users\lisac\Documents\HelloPdf\obj\Debug\net8.0\ref\HelloPdf.dll
+C:\Users\lisac\Documents\HelloPdf\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lisac\Documents\HelloPdf\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\lisac\Documents\HelloPdf\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lisac\Documents\HelloPdf\obj\Debug\net8.0\HelloPdf.sourcelink.json

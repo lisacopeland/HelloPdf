@@ -8,7 +8,41 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="assets\ARIAL.TTF" />
+    <None Remove="assets\ARIALBD.TTF" />
+    <None Remove="assets\ARIALBI.TTF" />
+    <None Remove="assets\ARIALI.TTF" />
+    <None Remove="assets\AsemKandis.ttf" />
+    <None Remove="assets\Dehaviland.ttf" />
+    <None Remove="assets\Queenthine.ttf" />
+    <None Remove="assets\times.ttf" />
+    <None Remove="assets\timesbd.ttf" />
+    <None Remove="assets\timesbi.ttf" />
+    <None Remove="assets\timesi.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="assets\ARIAL.TTF" />
+    <EmbeddedResource Include="assets\ARIALBD.TTF" />
+    <EmbeddedResource Include="assets\ARIALBI.TTF" />
+    <EmbeddedResource Include="assets\ARIALI.TTF" />
+    <EmbeddedResource Include="assets\AsemKandis.ttf" />
+    <EmbeddedResource Include="assets\Dehaviland.ttf" />
+    <EmbeddedResource Include="assets\Queenthine.ttf" />
+    <EmbeddedResource Include="assets\times.ttf" />
+    <EmbeddedResource Include="assets\timesbd.ttf" />
+    <EmbeddedResource Include="assets\timesbi.ttf" />
+    <EmbeddedResource Include="assets\timesi.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="PDFsharp-MigraDoc" Version="6.0.0" />
+    <PackageReference Include="System.Drawing.Common" Version="8.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="assets\temp\samples-MigraDoc\" />
+    <Folder Include="assets\temp\samples\" />
   </ItemGroup>
 
 </Project>
